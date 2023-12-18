@@ -2,6 +2,7 @@
 
 The requirments of this project were to create a simple game on an 8x8 matrix, along with an interactive menu on an LCD screen. The game i chose is Crossy Roads! 
 For this project i used an LCD Screen, a led Matrix, a buzzer, a potentiometer and all necesarry wires
+</br>
 Link to the video: https://youtu.be/opXX3nLGsKE
 <details>
 <summary>Photo</summary>
