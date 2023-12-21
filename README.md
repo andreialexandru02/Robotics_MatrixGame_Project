@@ -6,6 +6,14 @@ In the menu the player should be able to start the game, go to settings or see i
 </br> 
 I chose Crossy Roads, because it is game that i used to play as a child and can also be very well implemented on an 8x8 matrix. The player starts at thme button of the matrix and controlls a blinking dot. While crossing the road you'll have to dodge cars driving at full speed and cross rivers on a fast moving platform. There are 3 lives that he or she can lose before losing the game
 </br>
+<ul>Components
+  <l1>LCD Screen</l1>
+  <l1>Led Matrix</l1>
+  <l1>Buzzer</l1>
+  <l1>Potentiometer</l1>
+  <l1>MAX7219 Driver</l1>
+</ul>
+  <l1>All necess wires and breadboards</l1>
 For this project i used an LCD Screen, a led Matrix, a buzzer, a potentiometer, a MAX7219 Driver and all necesarry wires.
 </br>
 Link to the video: https://youtu.be/OdQSNXKAD6E
