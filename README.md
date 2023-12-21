@@ -8,12 +8,12 @@ I chose Crossy Roads, because it is game that i used to play as a child and can 
 </br>
 Components
 <ul>
-  <l1>LCD Screen</l1>
-  <l1>Led Matrix</l1>
-  <l1>Buzzer</l1>
-  <l1>Potentiometer</l1>
-  <l1>MAX7219 Driver</l1>
-  <l1>All necess wires and breadboards</l1>
+  <li>LCD Screen</li>
+  <li>Led Matrix</li>
+  <li>Buzzer</li>
+  <li>Potentiometer</li>
+  <li>MAX72i9 Driver</li>
+  <li>All necess wires and breadboards</li>
 </ul>
 For this project i used an LCD Screen, a led Matrix, a buzzer, a potentiometer, a MAX7219 Driver and all necesarry wires.
 </br>
