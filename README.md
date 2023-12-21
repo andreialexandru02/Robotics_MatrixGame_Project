@@ -8,8 +8,8 @@ I chose Crossy Roads, because it is game that i used to play as a child and can 
 </br>
 For this project i used an LCD Screen, a led Matrix, a buzzer, a potentiometer, a MAX7219 Driver and all necesarry wires.
 </br>
-Link to the video: https://youtu.be/opXX3nLGsKE
+Link to the video: https://youtu.be/OdQSNXKAD6E
 <details>
 <summary>Photo</summary>
-![MatrixGamePhoto](https://github.com/andreialexandru02/Robotics_MatrixGame_Project/assets/93448105/10208289-6c29-4b91-a9a6-a3a1e3f8670b)
+  ![MatrixGamePhoto](https://github.com/andreialexandru02/Robotics_MatrixGame_Project/assets/93448105/10208289-6c29-4b91-a9a6-a3a1e3f8670b)
 </details>
